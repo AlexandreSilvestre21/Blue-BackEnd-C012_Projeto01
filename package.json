@@ -1,0 +1,29 @@
+{
+  "name": "Blue-BackEnd-C012_Projeto01",
+  "version": "1.0.0",
+  "description": "Projeto To Do List - Back-end CRUD memória (Read All e Read By Id) - NodeJS e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreSilvestre21/Blue-BackEnd-C012_Projeto01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreSilvestre21/Blue-BackEnd-C012_Projeto01/issues"
+  },
+  "homepage": "https://github.com/AlexandreSilvestre21/Blue-BackEnd-C012_Projeto01#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
