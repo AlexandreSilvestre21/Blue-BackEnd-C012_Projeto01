@@ -1,4 +1,4 @@
-const personagensService = require('../services/personagens.service');
+const personagensService = require('../services/personagem.service');
 
 const findPersonagensController = (req, res) => {
   const allPersonagens = personagensService.findPersonagensService();
